@@ -1,8 +1,21 @@
 {
   "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
     "preview": {
       "android": {
         "buildType": "apk"
+      }
+    },
+    "production": {
+      "autoIncrement": true
+    },
+    "ios-simulator": {
+      "extends": "development",
+      "ios": {
+        "simulator": true
       }
     },
     "preview2": {
@@ -15,7 +28,6 @@
     },
     "preview4": {
       "distribution": "internal"
-    },
-    "production": {}
+    }
   }
 }
