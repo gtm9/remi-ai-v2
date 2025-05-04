@@ -1,0 +1,3 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/goutamchapalamadugu/Desktop/projects/REMIAI/remi-ai-v2/ios/remiaiv2.xcodeproj -configuration Debug -scheme remiaiv2 -destination id=B3C2C625-B8C4-4D01-B8EF-932A9BE88D5A
+
