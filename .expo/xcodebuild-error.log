@@ -1,0 +1,6 @@
+2025-05-03 14:10:33.856 xcodebuild[76783:16063085] Writing error result bundle to /var/folders/f3/395r517x79s09xtlmh2rcq5m0000gn/T/ResultBundle_2025-03-05_14-10-0033.xcresult
+xcodebuild: error: Unable to find a destination matching the provided destination specifier:
+		{ id:B3C2C625-B8C4-4D01-B8EF-932A9BE88D5A }
+
+	Ineligible destinations for the "remiaiv2" scheme:
+		{ platform:iOS, id:dvtdevice-DVTiPhonePlaceholder-iphoneos:placeholder, name:Any iOS Device, error:iOS 18.4 is not installed. To use with Xcode, first download and install the platform }
