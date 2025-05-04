@@ -17,14 +17,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.gluestack.uiexamplenativewind"
+      "bundleIdentifier": "com.gtm94.remiaiv2"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gluestack.uiexamplenativewind"
+      "package": "com.gtm94.remiaiv2"
     },
     "web": {
       "favicon": "./assets/favicon.png",
@@ -36,6 +36,11 @@
     },
     "updates": {
       "url": "https://u.expo.dev/42cce9b5-9fbe-4572-92ba-fc43b2437a85"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "70e46711-9e9f-49cd-b7c1-74340ae13af1"
+      }
     }
   }
 }
